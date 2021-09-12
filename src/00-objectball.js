@@ -1,1 +1,3 @@
-Wow this lab sucks so much
+let gameObj = {
+    
+}
